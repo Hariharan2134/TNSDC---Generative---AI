@@ -14,15 +14,9 @@ Interactive Storytelling AI utilizes advanced natural language processing techni
 
 ## Usage
 
-1. Clone the repository:
-
-git clone https://github.com/example/storytelling-ai.git
-
-
+1. Clone the repository
 
 2. Navigate to the project directory:
-
-cd storytelling-ai
 
 markdown
 Copy code
@@ -38,8 +32,7 @@ Copy code
 
 python storytelling_ai.py
 
-sql
-Copy code
+
 
 5. Follow the prompts to input your story details:
 - Enter the starting prompt for the story.
